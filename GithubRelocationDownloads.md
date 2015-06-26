@@ -1,0 +1,1 @@
+Downloads have been relocated [here](https://github.com/flex-users/flex-iframe/downloads).

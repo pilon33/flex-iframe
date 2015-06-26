@@ -1,0 +1,1 @@
+Issues have been relocated [here](https://github.com/flex-users/flex-iframe/issues).

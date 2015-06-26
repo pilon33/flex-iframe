@@ -1,0 +1,1 @@
+Wiki has been relocated [here](https://github.com/flex-users/flex-iframe/wiki).
